@@ -41,6 +41,18 @@ This is SLASSCOM - Eco System repository
                     <td>Software Development</td>
                     <td>Australia / Hong Kong / Singapore / UK</td>
                 </tr>
+                <tr>
+                    <td><a href="http://www.hsenidbiz.com" TARGET="_blank">hSenid Software International</a></td>
+                    <td>IT / Enterprise</td>
+                    <td>Software Development</td>
+                    <td>Europe / Africa / USA</td>
+                </tr>
+                <tr>
+                    <td><a href="http://www.techlabs.tech" TARGET="_blank">Techlabs Global</a></td>
+                    <td>IT / IoT</td>
+                    <td>Software Development / Platform</td>
+                    <td>&nbsp;</td>
+                </tr>
             </tbody>
         </table>
     </div>
