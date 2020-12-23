@@ -6,8 +6,8 @@ This is SLASSCOM - Eco System repository
     <div class="section-title col-lg-8 col-md-10 ml-auto mr-auto">
         <h3 class="mb-4 ">Company Repository</h3>
     </div>
-    <div class="example col-md-10 ml-auto mr-auto">
-        <table class="table table-striped table-responsive">
+    <div class="col-md-10 ml-auto mr-auto">
+        <table id="example" class="table table-striped table-bordered" style="width:100%">
             <thead>
                 <tr>
                     <th>Company</th>
