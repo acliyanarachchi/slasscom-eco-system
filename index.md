@@ -31,8 +31,8 @@ This is SLASSCOM - Eco System repository
                 </tr>
                 <tr>
                     <td><a href="http://www.talliance.com" TARGET="_blank">Talliance (Pvt) Ltd</a></td>
+                    <td>E-Commerce</td>
                     <td>Software Services</td>
-                    <td>Poppins Medium</td>
                     <td>Australia, Hong Kong, Singapore, UK</td>
                 </tr>
                 <tr>
