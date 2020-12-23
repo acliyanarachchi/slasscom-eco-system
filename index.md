@@ -15,39 +15,33 @@ This is SLASSCOM - Eco System repository
                     <th>Business Activity/Service Sector</th>
                     <th>Offerings</th>
                     <th>Services Delivered</th>
-                    <th>Website</th>
                 </tr>
             </thead>
             <tbody>
                 <tr>
-                    <td>BoardPAC (Pvt) Ltd</td>
+                    <td><a href="https://www.boardpac.co" TARGET="_blank">BoardPAC (Pvt) Ltd</a></td>
                     <td>Enterprise/Platforms</td>
-                    <td>"Ability to Read Board papers, Annotate and Share content.
-Ability to have secure Internal chat, Vote and e-signature.
-Video-enabled Board Meetings ."</td>
-                    <td>United States, Australia, UK, EU, Singapore, Malaysia, Hong Kong, Indonesia, South Africa, India, and Sri Lanka. </td>
-                    <td>https://www.boardpac.co</td>
+                    <td>Platform</td>
+                    <td>USA / Australia / UK / EU / Singapore / Malaysia / Hong Kong / Indonesia / South Africa / India / / Sri Lanka.</td>
                 </tr>
                 <tr>
-                    <td>IronOne Technologies Private Limited</td>
-                    <td>Financial Services, Banks, software development</td>
-                    <td>Investment platforms,performance reporting, digital banking app</td>
+                    <td><a href="https://www.irononetech.com/" TARGET="_blank">IronOne Technologies Private Limited</a></td>
+                    <td>Financial</td>
+                    <td>Platform</td>
                     <td>&nbsp;</td>
-                    <td>https://www.irononetech.com/</td>
                 </tr>
                 <tr>
-                    <td>Talliance (Pvt) Ltd</td>
+                    <td><a href="www.talliance.com" TARGET="_blank">Talliance (Pvt) Ltd</a></td>
                     <td>Software Services</td>
                     <td>Poppins Medium</td>
                     <td>Australia, Hong Kong, Singapore, UK</td>
-                    <td>www.talliance.com</td>
+                    <td></td>
                 </tr>
                 <tr>
-                    <td>Yaala Labs</td>
-                    <td>&nbsp;</td>
-                    <td>FinTech, Cloud, Blockchain</td>
-                    <td>US, UK, Sweden, Hong Kong, Sri Lanka</td>
-                    <td>https://www.yaalalabs.com/</td>
+                    <td><a href="https://www.yaalalabs.com/" TARGET="_blank">Yaala Labs</a></td>
+                    <td>E-Commerce</td>
+                    <td>Software Development</td>
+                    <td>Australia / Hong Kong / Singapore / UK</td>
                 </tr>
             </tbody>
         </table>
