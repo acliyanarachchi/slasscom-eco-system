@@ -4,8 +4,7 @@ This is SLASSCOM - Eco System repository
 
 <div id="data-table" class="container mb-5">
     <div class="section-title col-lg-8 col-md-10 ml-auto mr-auto">
-        <h3 class="mb-4 ">Repository</h3>
-        <p>This is the SLASSCOM Eco System company repository</p>
+        <h3 class="mb-4 ">Company Repository</h3>
     </div>
     <div class="example col-md-10 ml-auto mr-auto">
         <table class="table table-striped table-responsive">
