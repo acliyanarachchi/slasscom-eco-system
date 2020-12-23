@@ -2,59 +2,57 @@
 
 This is SLASSCOM - Eco System repository
 
-<div id="data-table" class="container mb-5">
+<div id="" class="container mb-5">
     <div class="section-title col-lg-8 col-md-10 ml-auto mr-auto">
         <h3 class="mb-4 ">Company Repository</h3>
     </div>
-    <div class="col-md-10 ml-auto mr-auto">
-        <table id="example" class="table table-striped table-bordered" style="width:100%">
-            <thead>
-                <tr>
-                    <th>Company</th>
-                    <th>Business Activity/Service Sector</th>
-                    <th>Offerings</th>
-                    <th>Services Delivered Countries</th>
-                </tr>
-            </thead>
-            <tbody>
-                <tr>
-                    <td><a href="https://www.boardpac.co" TARGET="_blank">BoardPAC (Pvt) Ltd</a></td>
-                    <td>Enterprise/Platforms</td>
-                    <td>Platform</td>
-                    <td>USA / Australia / UK / EU / Singapore / Malaysia / Hong Kong / Indonesia / South Africa / India / / Sri Lanka.</td>
-                </tr>
-                <tr>
-                    <td><a href="https://www.irononetech.com/" TARGET="_blank">IronOne Technologies Private Limited</a></td>
-                    <td>Financial</td>
-                    <td>Platform</td>
-                    <td>&nbsp;</td>
-                </tr>
-                <tr>
-                    <td><a href="http://www.talliance.com" TARGET="_blank">Talliance (Pvt) Ltd</a></td>
-                    <td>E-Commerce</td>
-                    <td>Software Services</td>
-                    <td>Australia, Hong Kong, Singapore, UK</td>
-                </tr>
-                <tr>
-                    <td><a href="https://www.yaalalabs.com/" TARGET="_blank">Yaala Labs</a></td>
-                    <td>E-Commerce</td>
-                    <td>Software Development</td>
-                    <td>Australia / Hong Kong / Singapore / UK</td>
-                </tr>
-                <tr>
-                    <td><a href="http://www.hsenidbiz.com" TARGET="_blank">hSenid Software International</a></td>
-                    <td>IT / Enterprise</td>
-                    <td>Software Development</td>
-                    <td>Europe / Africa / USA</td>
-                </tr>
-                <tr>
-                    <td><a href="http://www.techlabs.tech" TARGET="_blank">Techlabs Global</a></td>
-                    <td>IT / IoT</td>
-                    <td>Software Development / Platform</td>
-                    <td>&nbsp;</td>
-                </tr>
-            </tbody>
-        </table>
-    </div>
+    <table id="data-table" class="table table-striped table-bordered" style="width:100%">
+        <thead>
+            <tr>
+                <th>Company</th>
+                <th>Business Activity/Service Sector</th>
+                <th>Offerings</th>
+                <th>Services Delivered Countries</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><a href="https://www.boardpac.co" TARGET="_blank">BoardPAC (Pvt) Ltd</a></td>
+                <td>Enterprise/Platforms</td>
+                <td>Platform</td>
+                <td>USA / Australia / UK / EU / Singapore / Malaysia / Hong Kong / Indonesia / South Africa / India / / Sri Lanka.</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.irononetech.com/" TARGET="_blank">IronOne Technologies Private Limited</a></td>
+                <td>Financial</td>
+                <td>Platform</td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td><a href="http://www.talliance.com" TARGET="_blank">Talliance (Pvt) Ltd</a></td>
+                <td>E-Commerce</td>
+                <td>Software Services</td>
+                <td>Australia, Hong Kong, Singapore, UK</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.yaalalabs.com/" TARGET="_blank">Yaala Labs</a></td>
+                <td>E-Commerce</td>
+                <td>Software Development</td>
+                <td>Australia / Hong Kong / Singapore / UK</td>
+            </tr>
+            <tr>
+                <td><a href="http://www.hsenidbiz.com" TARGET="_blank">hSenid Software International</a></td>
+                <td>IT / Enterprise</td>
+                <td>Software Development</td>
+                <td>Europe / Africa / USA</td>
+            </tr>
+            <tr>
+                <td><a href="http://www.techlabs.tech" TARGET="_blank">Techlabs Global</a></td>
+                <td>IT / IoT</td>
+                <td>Software Development / Platform</td>
+                <td>&nbsp;</td>
+            </tr>
+        </tbody>
+    </table>
 </div>
 
