@@ -35,7 +35,6 @@ This is SLASSCOM - Eco System repository
                     <td>Software Services</td>
                     <td>Poppins Medium</td>
                     <td>Australia, Hong Kong, Singapore, UK</td>
-                    <td></td>
                 </tr>
                 <tr>
                     <td><a href="https://www.yaalalabs.com/" TARGET="_blank">Yaala Labs</a></td>
