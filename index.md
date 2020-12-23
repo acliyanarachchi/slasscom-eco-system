@@ -2,57 +2,52 @@
 
 This is SLASSCOM - Eco System repository
 
-### Repository Table
-
-<div id="typography" class="container mb-5">
+<div id="data-table" class="container mb-5">
     <div class="section-title col-lg-8 col-md-10 ml-auto mr-auto">
-        <h3 class="mb-4 ">Typography</h3>
-        <p>Shards uses Poppins as its primary typeface for headings and the system’s UI font with a Roboto-first fallback (only on non-Apple devices) for the remaining content.</p>
+        <h3 class="mb-4 ">Repository</h3>
+        <p>This is the SLASSCOM Eco System company repository</p>
     </div>
     <div class="example col-md-10 ml-auto mr-auto">
         <table class="table table-striped table-responsive">
             <thead>
                 <tr>
-                    <th>Type</th>
-                    <th>Example</th>
-                    <th>Font</th>
-                    <th>Font Size</th>
-                    <th>Line Height</th>
+                    <th>Company</th>
+                    <th>Business Activity/Service Sector</th>
+                    <th>Offerings</th>
+                    <th>Services Delivered</th>
+                    <th>Website</th>
                 </tr>
             </thead>
             <tbody>
                 <tr>
-                    <td>Heading 1</td>
-                    <td>
-                        <h1>ABCabc</h1></td>
-                    <td>Poppins Semibold</td>
-                    <td>3.052 REM</td>
-                    <td>3 REM</td>
+                    <td>BoardPAC (Pvt) Ltd</td>
+                    <td>Enterprise/Platforms</td>
+                    <td>"Ability to Read Board papers, Annotate and Share content.
+Ability to have secure Internal chat, Vote and e-signature.
+Video-enabled Board Meetings ."</td>
+                    <td>United States, Australia, UK, EU, Singapore, Malaysia, Hong Kong, Indonesia, South Africa, India, and Sri Lanka. </td>
+                    <td>https://www.boardpac.co</td>
                 </tr>
                 <tr>
-                    <td>Heading 2</td>
-                    <td>
-                        <h2>ABCabc</h2></td>
+                    <td>IronOne Technologies Private Limited</td>
+                    <td>Financial Services, Banks, software development</td>
+                    <td>Investment platforms,performance reporting, digital banking app</td>
+                    <td>&nbsp;</td>
+                    <td>https://www.irononetech.com/</td>
+                </tr>
+                <tr>
+                    <td>Talliance (Pvt) Ltd</td>
+                    <td>Software Services</td>
                     <td>Poppins Medium</td>
-                    <td>2.441 REM</td>
-                    <td>2.25 REM</td>
+                    <td>Australia, Hong Kong, Singapore, UK</td>
+                    <td>www.talliance.com</td>
                 </tr>
                 <tr>
-                    <td>Heading 3</td>
-                    <td>
-                        <h3>ABCabc</h3></td>
-                    <td>Poppins Medium</td>
-                    <td>1.953 REM</td>
-                    <td>2.25 REM</td>
-                </tr>
-                <tr>
-                    <td>Paragraph</td>
-                    <td>
-                        <p>ABCabc</p>
-                    </td>
-                    <td>System UI / Roboto</td>
-                    <td>1 REM</td>
-                    <td>1.5</td>
+                    <td>Yaala Labs</td>
+                    <td>&nbsp;</td>
+                    <td>FinTech, Cloud, Blockchain</td>
+                    <td>US, UK, Sweden, Hong Kong, Sri Lanka</td>
+                    <td>https://www.yaalalabs.com/</td>
                 </tr>
             </tbody>
         </table>
