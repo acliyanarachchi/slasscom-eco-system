@@ -19,7 +19,7 @@ This is SLASSCOM - Eco System repository
             <td><a href="https://www.boardpac.co" TARGET="_blank">BoardPAC (Pvt) Ltd</a></td>
             <td>Enterprise/Platforms</td>
             <td>Platform</td>
-            <td>USA / Australia / UK / EU / Singapore / Malaysia / Hong Kong / Indonesia / South Africa / India / / Sri Lanka.</td>
+            <td>USA / Australia / UK / EU / Singapore /<br />Malaysia /Hong Kong / Indonesia /<br />South Africa / India / Sri Lanka.</td>
         </tr>
         <tr>
             <td><a href="https://www.irononetech.com/" TARGET="_blank">IronOne Technologies Private Limited</a></td>
