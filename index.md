@@ -31,7 +31,7 @@ This is SLASSCOM - Eco System repository
             <td><a href="http://www.talliance.com" TARGET="_blank">Talliance (Pvt) Ltd</a></td>
             <td>E-Commerce</td>
             <td>Software Services</td>
-            <td>Australia, Hong Kong, Singapore, UK</td>
+            <td>Australia / Hong Kong / Singapore / UK</td>
         </tr>
         <tr>
             <td><a href="https://www.yaalalabs.com/" TARGET="_blank">Yaala Labs</a></td>
@@ -44,6 +44,12 @@ This is SLASSCOM - Eco System repository
             <td>IT / Enterprise</td>
             <td>Software Development</td>
             <td>Europe / Africa / USA</td>
+        </tr>
+        <tr>
+            <td><a href="https://www.orangehrm.com/" TARGET="_blank">OrangeHRM</a></td>
+            <td>HRM</td>
+            <td>Software Development / Platform</td>
+            <td>Europe / Australia / Canda / Brazil /<br />USA / Singapore / UAE</td>
         </tr>
         <tr>
             <td><a href="http://www.techlabs.tech" TARGET="_blank">Techlabs Global</a></td>
