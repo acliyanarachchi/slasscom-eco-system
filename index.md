@@ -1,4 +1,4 @@
-## Welcome to SLASSCOM - Eco System
+## Welcome to SLASSCOM Product and Platform Council Eco-System
 
 This is SLASSCOM - Eco System repository
 <p>&nbsp;</p>
