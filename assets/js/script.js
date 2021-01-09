@@ -9,7 +9,7 @@
         var age = data.feed.entry[i]['gsx$_cokwr']['$t'];
         var email = data.feed.entry[i]['gsx$_cpzh4']['$t'];
 
-        document.getElementById('demo').innerHTML += ('<tr>'+'<td>'+name+'</td>'+'<td>'+age+'</td>'+'<td>'+email+'</td>'+'</tr>');
+        document.getElementById('tbodyData').innerHTML += ('<tr>'+'<td>'+name+'</td>'+'<td>'+age+'</td>'+'<td>'+email+'</td>'+'</tr>');
 
       }
     });
